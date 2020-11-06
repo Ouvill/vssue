@@ -57,7 +57,7 @@
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-stylus": "^2.7.0",
-    "postcss": "^7.0.7",
+    "postcss": "^8.1.6",
     "rollup": "^0.68.1",
     "rollup-plugin-babel": "^4.1.0",
     "rollup-plugin-commonjs": "^9.2.0",
