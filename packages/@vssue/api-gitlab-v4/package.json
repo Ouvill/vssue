@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "@vssue/utils": "^0.9.0",
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   }
 }
